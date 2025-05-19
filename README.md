@@ -102,16 +102,6 @@ This chatbot uses an **ensemble of two models** for generating emotionally rich 
 - 📚 Notebooks: `Ensembled_Model.ipynb`
 
 ---
-## 🎬 Execution
-
-Here’s a short demo video of the **Suicide Mitigation Chatbot** in action, showcasing the UI, live response generation, and empathy-driven dialogue.
-
-<video width="100%" height="auto" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
 
 ## 🤝 Contributing
 
