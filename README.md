@@ -104,6 +104,7 @@ This chatbot uses an **ensemble of two models** for generating emotionally rich 
 ---
 
 A detailed explanation is published here<br>
+<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15478579.svg)](https://doi.org/10.5281/zenodo.15478579)
 
 ---
